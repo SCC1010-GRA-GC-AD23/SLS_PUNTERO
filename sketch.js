@@ -1,3 +1,10 @@
+let grado = Math.PI/180
+let rot = 0
+let h=0
+let m =0
+let s=0
+
+
 function preload() {
   // put preload code here
 }
